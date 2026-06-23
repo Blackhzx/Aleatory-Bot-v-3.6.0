@@ -6,9 +6,9 @@
   <a href="https://github.com/NuevaGeneracionALB/aleatory-md.git"><img title="Autor" src="https://img.shields.io/badge/Autor-Aleatory-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
   
-Precisa de ajuda? Entre em nosso chat: 
+canal do YouTube do criador original: 
 
-https://chat.whatsapp.com/FT9Szs4fMom7nS2qFNMmye
+https://youtube.com/@aleatoryconteudos
 
 SÓ SERÁ NECESSÁRIO EXECUTAR OS COMANDOS BÁSICOS DO TERMUX SE APÓS A INSTALAÇÃO DELE, NÃO FOREM DADOS ESSES COMANDOS LISTADOS.
 
