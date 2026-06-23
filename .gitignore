@@ -1,0 +1,5 @@
+node_modules/
+*.log
+.env
+database/*.json
+public/tmp/*
