@@ -1,60 +1,52 @@
-# Aleatory MD - BOT DE WHATSAPP
+# Aleatory MD - Bot de WhatsApp
+
 <div align="center">
-<img src="https://telegra.ph/file/e6018110d95e1a9fc7efe.jpg" alt="Aleatory MD - BOT" width="300" />
-</div>
-<p align="center">
-  <a href="https://github.com/NuevaGeneracionALB/aleatory-md.git"><img title="Autor" src="https://img.shields.io/badge/Autor-Aleatory-red.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
+  <img src="https://telegra.ph/file/e6018110d95e1a9fc7efe.jpg" alt="Aleatory MD" width="420" height="auto" />
   
-canal do YouTube do criador original: 
+  <h1>Aleatory MD</h1>
+  <p><strong>Bot Multifuncional Avançado para WhatsApp</strong></p>
 
-https://youtube.com/@aleatoryconteudos
+  <a href="https://github.com/Blackhzx/Aleatory-Bot-v-3.6.0">
+    <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" alt="Status">
+  </a>
+  <a href="https://github.com/Blackhzx/Aleatory-Bot-v-3.6.0">
+    <img src="https://img.shields.io/github/stars/Blackhzx/Aleatory-Bot-v-3.6.0?style=for-the-badge" alt="Stars">
+  </a>
+</div>
 
-SÓ SERÁ NECESSÁRIO EXECUTAR OS COMANDOS BÁSICOS DO TERMUX SE APÓS A INSTALAÇÃO DELE, NÃO FOREM DADOS ESSES COMANDOS LISTADOS.
+## Sobre o Projeto
 
-_-_-_-_-_-_-_-_-_
+**Aleatory MD** é um bot completo e altamente customizável para WhatsApp, desenvolvido com foco em performance, estabilidade e diversão.
 
-SE PRECISAR, INSTALE A VERSÃO 119 DO TERMUX
+### Restaurado e Mantido por
+**Josué </>**
 
-https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file
-_-_-_-_-_-_-_-_-_-_
+---
 
-Comandos básicos do Termux necessários para inicialização do bot:
+## 🚀 Instalação Rápida
 
--_1 COMANDO:
+### 1. Pré-requisitos (Termux)
 
+```bash
 termux-change-repo
-
-Confirme, marque a caixinha que contem o nome "by grimler" e prossiga.
-
--_2 COMANDO:
-
-apt-get upgrade
-
-Será necessário digitar 'y' e confirmar toda vez que for solicitado.
-
--_3 COMANDO:
-
-apt-get update
-
-Será necessário digitar 'y' e confirmar toda vez que for solicitado.
-
--_4 COMANDO:
-
-pkg install nodejs -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install git -y
-
--_5 COMANDO:
-
+apt-get upgrade -y && apt-get update -y
+pkg install nodejs nodejs-lts ffmpeg wget git -y
 termux-setup-storage
-
-Permita.
-
-__-_-_-_-_-
-
-COMANDO PARA INSTALAR A PASTA DO BOT, APÓS TODAS AS ETAPAS ANTERIORES OU CASO NÃO SEJA NECESSÁRIO AS ETAPAS:
-
-___-_-_-_-_-
-
-cd /sdcard && rm -rf aleatory-md && git clone https://github.com/NuevaGeneracionALB/aleatory-md.git && cd aleatory-md && sh start.sh
-
-_- BASTA COPIAR O COMANDO INTEIRO E COLAR LÁ, NÃO É NECESSÁRIO COPIAR APENAS METADE OU UMA PARTE, É O COMANDO COMPLETO.
+2. Instalar o Bot
+cd /sdcard && rm -rf aleatory-md && git clone https://github.com/Blackhzx/Aleatory-Bot-v-3.6.0.git aleatory-md && cd aleatory-md && sh start.sh
+✨ Principais Funcionalidades
+🔧 Administração de Grupos (anti-spam, anti-flood, etc.)
+🎮 Jogos (Tic Tac Toe e mais)
+🖼️ Figurinhas (animadas e personalizadas)
+📥 Downloads (músicas, vídeos, reels)
+🏆 Sistema de Patentes e Golds
+📊 Menus Interativos
+🔒 Segurança e Proteções
+🎵 Áudios e Comandos de Voz
+📬 Suporte
+Restaurador: Josué </>
+Versão: 3.6.0
+�
+Obrigado por utilizar o Aleatory MD ❤️
+Feito com dedicação para a comunidade 
+```
